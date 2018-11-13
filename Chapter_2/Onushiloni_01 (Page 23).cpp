@@ -9,10 +9,12 @@
 using namespace std;
 int main()
 {
-    double a,b,d;
-    cin>>a>>b;
-    d=a-b;
+    double x1,x2,y1,y2,d;
+    cout<<"Enter the Co-Ordinate: ";
+    cin>>x1>>x2>>y1>>y2;
+    d=sqrt((x1-x2)*(x1-x2)+(y1-y2)*(y1-y2));
     cout<<"Distance is: "<<d<<endl;
 
     return 0;
 }
+
