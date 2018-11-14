@@ -1,6 +1,6 @@
 /**
     Onushiloni_03 (Page 24)
-            একটি ত্রিভুজের তিনটি বাহুর দৈর্ঘ দেওয়া আছে, তার তিনটি পরিসীমা নির্ণয় কর।
+            একটি বৃত্তের ব্যাসার্ধ দেওয়া আছে, পরিসীমা নির্ণয় কর।
     Purpose: Solve the book "Programming Contest, Data Structure And Algorithm" by Md. Mahbubul Hasan"
     @author Md. Sadikul Islam Shuvo
 */
