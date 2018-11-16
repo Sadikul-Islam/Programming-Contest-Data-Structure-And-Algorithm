@@ -1,6 +1,6 @@
 
 /**
-    No.26__Onushiloni_Factorial (Page 32).cpp
+    No.27__Onushiloni_Factorial (Page 32).cpp
     n! (n ফ্যাক্টোরিয়াল)  নির্ণয় কর।
     Purpose: Solve the book "Programming Contest, Data Structure And Algorithm" by Md. Mahbubul Hasan"
     @author: Md. Sadikul Islam Shuvo
